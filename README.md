@@ -1,5 +1,9 @@
+Hi, I’m @hestyjacky, a student at the Universidad Politécnica de Victoria, majoring in Information Technology Engineering. I’m interested in web development and creating various systems to enhance my programming skills in any area.
+
+Contact Info: [CV - English](https://drive.google.com/file/d/1725fDQZzPYhNxmiBeE1iUgq97EB1gORE/view?usp=sharing)
+<!---
 CV - English -> https://drive.google.com/file/d/1725fDQZzPYhNxmiBeE1iUgq97EB1gORE/view?usp=sharing
-- 👋 Hi, I’m @hestyjacky
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,7 +11,6 @@ CV - English -> https://drive.google.com/file/d/1725fDQZzPYhNxmiBeE1iUgq97EB1gOR
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
 hestyjacky/hestyjacky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
